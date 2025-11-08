@@ -1,0 +1,24 @@
+
+@host = http://localhost:5204
+
+### Listar motos
+GET {{host}}/motos
+Accept: application/json
+
+### Registrar entrada
+POST {{host}}/motos/entrada
+Content-Type: application/json
+
+{
+  "placa": "ABC1234",
+  "operadorId": 1
+}
+
+### Registrar saída
+POST {{host}}/motos/saida
+Content-Type: application/json
+
+{
+  "placa": "ABC1234",
+  "operadorId": 1
+}
