@@ -1,3 +1,7 @@
+# ✨ Desenvolvido por Mateus Teni Pierro - RM555125
+Heitor Romero da Rocha - RM558301
+Caroline Souza do Amaral - RM558012
+
 # Patio API - Sistema de Gestão de Pátio
 
 Bem-vindo ao projeto **Patio API**, desenvolvido como parte da Sprint 4. Esta API gerencia o fluxo de motos, operadores e movimentações dentro de um sistema de pátio. O projeto foi desenvolvido utilizando **.NET 9**, **EF Core**, **Swagger**, **Health Check**, Oracle Database e boas práticas de arquitetura.
@@ -246,6 +250,6 @@ Teste em:
 
 ---
 
-# ✨ Desenvolvido por Mateus Teni Pierro - RM555125
 
-Sprint 4 - Turbo Tech
+
+
